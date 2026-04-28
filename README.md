@@ -11,6 +11,6 @@ Features
  Basic customer support responses
  Web interface + CLI support
 
-🧠 How It Works
+How It Works
 
 The system uses a rule-based chatbot approach, where user input is matched with predefined keywords.
